@@ -1,7 +1,8 @@
 ⏱ Stopwatch App
 A simple stopwatch built using React.
 
-🔗  [click here to view](https//:stopwatch-nu-drab.vercel.app)
+🔗 Live Demo [click here to view](https//:stopwatch-nu-drab.vercel.app)
+
 🚀 Features
 Start the stopwatch
 
