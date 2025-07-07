@@ -1,18 +1,24 @@
-⏱ Stopwatch App
-A simple stopwatch built using React.
+# ⏱ Stopwatch App
 
-🔗 Live Demo [click here to view](https//:stopwatch-nu-drab.vercel.app)
+A simple stopwatch built using **React**.
 
-🚀 Features
+🔗 **Live Demo**: [Click here to view](https://stopwatch-nu-drab.vercel.app)
 
-Start the stopwatch
-Pause/Stop the stopwatch
-Reset the timer to 00:00:00
-Clean and minimal UI
+---
 
-🛠️ Tech Stack
+## 🚀 Features
 
-React
-JavaScript
-Vite (for fast development)
-CSS for styling
+- Start the stopwatch  
+- Pause/Stop the stopwatch  
+- Reset the timer to `00:00:00`  
+- Clean and minimal UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- React  
+- JavaScript  
+- Vite (for fast development)  
+- CSS for styling  
+
